@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/components/Documentation/index.js:26
+#: src/components/TopBar/index.js:17
+msgid "WP 301 Redirects"
+msgstr ""
+
+#: src/components/Documentation/index.js:28
+msgid ""
+"WP redirects work similar to the format that Apache uses: the request "
+"should be relative to your WordPress root. The destination can be either a "
+"full URL to any page on the web, or relative to your WordPress root."
+msgstr ""
+
+#: src/components/Documentation/index.js:37
+msgid "/old-page/"
+msgstr ""
+
+#: src/components/Documentation/index.js:44
+msgid "Wildcards"
+msgstr ""
+
+#: src/components/Documentation/index.js:45
+msgid ""
+"Wildcards Redirect will redirect all files within a directory to the same "
+"filename in the redirected directory. To use wildcards, put an asterisk (*) "
+"after the folder name that you want to redirect."
+msgstr ""
+
+#: src/components/Documentation/index.js:53
+msgid "/new-folder/* "
+msgstr ""
+
+#: src/components/Documentation/index.js:58
+msgid ""
+"You can also use wildcards to redirect all the dynamic files of a certain "
+"directory to a same destination URL as well."
+msgstr ""
+
+#: src/components/Documentation/index.js:63
+msgid "Request: "
+msgstr ""
+
+#: src/components/Documentation/index.js:67
+msgid "Destination: "
+msgstr ""
+
+#: src/components/Documentation/index.js:67
+msgid "/new-page/"
+msgstr ""
+
+#: src/components/Documentation/index.js:72
+msgid ""
+"You can also use the asterisk in the destination to replace whatever it "
+"matched in the request if you like. Something like this:"
+msgstr ""
+
+#: src/components/Documentation/index.js:74
+msgid "Example"
+msgstr ""
+
+#: src/components/Documentation/index.js:77
+msgid "Request:"
+msgstr ""
+
+#: src/components/Documentation/index.js:78
+msgid "/old-folder/*"
+msgstr ""
+
+#: src/components/Documentation/index.js:87
+msgid "/old-folder/*/content/"
+msgstr ""
+
+#: src/components/Documentation/index.js:90
+msgid "Destination:"
+msgstr ""
+
+#: src/components/Documentation/index.js:90
+msgid "/some/other/folder/*"
+msgstr ""
+
+#: src/components/Link/index.js:96
+msgid "Add New"
+msgstr ""
+
+#: src/components/Tools/index.js:32
+msgid "Import Redirect Rules"
+msgstr ""
+
+#: src/components/Tools/index.js:33
+msgid "Import your 301 Redirect Links from your Device"
+msgstr ""
+
+#: src/components/Tools/index.js:46
+msgid "Import File"
+msgstr ""
+
+#: src/components/Tools/index.js:59
+msgid "Export Redirect Rules"
+msgstr ""
+
+#: src/components/Tools/index.js:60
+msgid "Export your 301 Redirect Links in .csv format"
+msgstr ""
+
+#: src/components/Tools/index.js:67
+msgid "Export File"
+msgstr ""
+
+#: src/components/WildCards/index.js:57
+msgid "Use Wildcards?"
+msgstr ""
+
+#: src/containers/group/ManageLinks.js:111
+msgid "Request"
+msgstr ""
+
+#: src/containers/group/ManageLinks.js:115
+msgid "Destination"
+msgstr ""
